@@ -4,7 +4,7 @@
 
 フロントは React (TypeScript)
 
-サーバーサイドは CMS を利用。[GraphCMS](https://app.hygraph.com/)
+サーバーサイドは CMS を利用。[hygraph](https://app.hygraph.com/)
 
 ApolloClientを使って、APIリクエスト。
 
