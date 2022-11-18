@@ -1,5 +1,7 @@
 # react-ts-graphcms-sample
 
+<img width="800" alt="スクリーンショット 2022-11-18 23 22 14" src="https://user-images.githubusercontent.com/75517054/202733515-2e62ec9a-9e69-4539-96d0-aa05f6d6fa24.png">
+
 アウトプットとして、GraphQL製CMSのhygraph を使った DogsImage アプリケーション作成。
 
 フロントは React (TypeScript)
